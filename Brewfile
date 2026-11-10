@@ -1,4 +1,5 @@
 # command-line tools
+brew "ffmpeg"
 brew "gh"
 brew "mas"
 
