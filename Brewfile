@@ -2,6 +2,7 @@
 brew "ffmpeg"
 brew "gh"
 brew "mas"
+brew "node"
 
 # apps
 cask "claude"
